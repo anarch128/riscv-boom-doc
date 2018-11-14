@@ -1,12 +1,12 @@
-The BOOM processor can be found at (https://github.com/ucb-bar/riscv-boom).
+The BOOM processor can be found at (https://github.com/riscv-boom/riscv-boom).
 
-You can download this document from (https://ccelio.github.io/riscv-boom-doc).
+You can download this document from (https://riscv-boom.github.io/riscv-boom-doc).
 
 There is also a Google group at (https://groups.google.com/forum/#!forum/riscv-boom).
 
 To build (and then read) the latest version of this document using Latex:
 
-    $ git clone https://github.com/ccelio/riscv-boom-doc.git
+    $ git clone https://github.com/riscv-boom/riscv-boom-doc.git
     $ cd riscv-boom-doc
     $ make
     $ open main.pdf
