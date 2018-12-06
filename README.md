@@ -1,6 +1,6 @@
 The BOOM processor can be found at (https://github.com/riscv-boom/riscv-boom).
 
-You can download this document from (https://riscv-boom.github.io/riscv-boom-doc).
+You can download this document from the BOOM website (www.boom-core.org) under the resources/docs tab.
 
 There is also a Google group at (https://groups.google.com/forum/#!forum/riscv-boom).
 
